@@ -57,7 +57,9 @@ public class Main {
     }
 
     public static void main(String[] args) throws Exception {
-//        doExe(new String[]{"cmd.exe"}, "GBK", "C:/Program Files");
-        doExe(new String[]{"tshock_4.3.25/TerrariaServer.exe"}, "UTF-8", "tshock_4.3.25");
+        // 运行cmd.exe程序
+        doExe(new String[]{"cmd.exe"}, "GBK", "C:/Program Files");
+        // 运行TerrariaServer.exe程序
+//        doExe(new String[]{"tshock_4.3.25/TerrariaServer.exe"}, "UTF-8", "tshock_4.3.25");
     }
 }
