@@ -115,3 +115,9 @@ Choose World: n
 直接打开文件夹tshock_4.3.25，并手动双击执行TerrariaServer.exe文件，然后选择"n"
 本应该会显示如下信息：
 ![](temp.png)
+
+
+### 成功找到了解决方案
+使用开源工具类，pty4j
+链接地址：[https://github.com/JetBrains/pty4j](https://github.com/JetBrains/pty4j)
+简单尝试的代码：[https://github.com/duyanhan1995/operateExeByJava/blob/master/src/main/java/Pty4j_1.java]
