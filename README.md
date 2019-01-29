@@ -4,7 +4,7 @@
 #### 最直接的目标
 就是当前模拟的这个Java程序能够直接代替我手工输入命令给正在执行的EXE程序，并且读取它执行命令后返回的结果信息
 
-#### 测试样例([代码在此](src\main\java\Main.java))
+#### 测试样例([代码在此](https://github.com/duyanhan1995/operateExeByJava/blob/master/src/main/java/Main.java))
 ---
 ##### 样例一：执行cmd.exe程序，并输入ipconfig、dir等命令执行，能够达到以上目标，执行结果如下
 ```
