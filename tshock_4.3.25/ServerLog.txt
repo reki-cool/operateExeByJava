@@ -1,0 +1,25 @@
+[01/29/19 11:20:50] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[01/29/19 11:20:50] [Server API] Verbose: 	Command line: "C:\Users\duyanhan\Desktop\tshock_4.3.25\TerrariaServer.exe" 
+[01/29/19 11:20:50] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[01/29/19 11:20:50] [Server API] Verbose: 	Mono: False
+[01/29/19 11:20:53] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[01/29/19 14:04:59] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[01/29/19 14:04:59] [Server API] Verbose: 	Command line: tshock_4.3.25\TerrariaServer.exe
+[01/29/19 14:04:59] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[01/29/19 14:04:59] [Server API] Verbose: 	Mono: False
+[01/29/19 14:05:01] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[01/29/19 14:06:31] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[01/29/19 14:06:31] [Server API] Verbose: 	Command line: tshock_4.3.25\TerrariaServer.exe
+[01/29/19 14:06:31] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[01/29/19 14:06:31] [Server API] Verbose: 	Mono: False
+[01/29/19 14:06:32] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[01/29/19 14:10:25] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[01/29/19 14:10:25] [Server API] Verbose: 	Command line: tshock_4.3.25\TerrariaServer.exe
+[01/29/19 14:10:25] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[01/29/19 14:10:25] [Server API] Verbose: 	Mono: False
+[01/29/19 14:10:26] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
+[01/29/19 14:16:26] [Server API] Verbose: TerrariaApi - Server v2.1.0.0 started.
+[01/29/19 14:16:26] [Server API] Verbose: 	Command line: tshock_4.3.25\TerrariaServer.exe
+[01/29/19 14:16:26] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[01/29/19 14:16:26] [Server API] Verbose: 	Mono: False
+[01/29/19 14:16:26] [Server API] Info: Plugin TShock v4.3.25.0 (by The TShock Team) initiated.
